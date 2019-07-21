@@ -3,6 +3,8 @@
 **Latest Build:** 4/10/2015
 
  [<img src="https://img.shields.io/badge/INziftr.exe-Download-blue.svg?style=for-the-badge&logo=appveyor">](https://github.com/aaprather/INziftr/raw/master/INziftr.exe)
+ 
+ ### While this program still runs properly, many of the resources that this application was dependent on in 2015 no longer exist and the functionality may be affected.
 # - INziftr -
 This project was created *Spring* 2015 and was intended to be used as a GUI for [Pooler's CPU Miner](https://github.com/pooler/cpuminer).
 
